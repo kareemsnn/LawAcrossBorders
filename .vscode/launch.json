@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LawAcrossBordersApplication<LawAcrossBorders>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.LawAcrossBorders.LawAcrossBorders.LawAcrossBordersApplication",
+            "projectName": "LawAcrossBorders",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
